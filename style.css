@@ -18,7 +18,8 @@ body{
     border-radius: 12px;
     box-shadow: 6px 6px 0px  black;
     border: 1px solid black ;
-   justify-items: center;<img class="avatar" src="image-avatar.webp" alt="Avatar image">
+   justify-items: center;
+   margin-top: 20vw;
 }
 
 img{
